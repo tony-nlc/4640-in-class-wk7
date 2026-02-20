@@ -19,7 +19,7 @@ terraform apply
 ansible-playbook playbook.yml --syntax-check
 ansible-playbook playbook.yml
 ```
-![](../wk3/file-20260220145154712.png)
+![](assets/README/file-20260220145154712.png)
 ![](assets/README/file-20260220145208490.png)
 
 #### Explanation
