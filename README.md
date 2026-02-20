@@ -1,3 +1,6 @@
+##### Tony Chou A01373832
+##### Noah Thomson A01276533
+
 ### Setup
 1. Generate SSH key
 ```bash
